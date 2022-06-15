@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Write this file
 =======
+=======
+check new
+>>>>>>> remix
 This remix file
 >>>>>>> remix
